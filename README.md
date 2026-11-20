@@ -126,4 +126,4 @@ Set `BASE=http://localhost/restaurant_management` if you are not on port 8080. R
 
 ## 📄 License
 
-Released under the MIT License
+Released under the [MIT License](LICENSE).
